@@ -14,7 +14,7 @@ It is easy to build the board. All you need is to solder the following.
 -1 pc of 2x20 pinheader  
 -2 pcs of 1x3 pinheader  
 
-Pinout of the iC880A-Adapter-Board:  
+Pinout  
 iC880A <-> Raspberry Pi  
     07 <-> 38 ... GPIO20  
     08 <-> 36 ... GPIO16  
