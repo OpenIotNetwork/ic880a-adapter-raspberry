@@ -32,7 +32,7 @@ LoRaWan-Gateway:
 To build a LoRaWan-Gateway you need just a  
 -Raspberry Pi (Zero, 2 Model B or above)  
 -this iC880A-Adapter-Board  
--LoRaWAN concentrator board  
+-IMST iC880A LoRaWAN concentrator board  
 -Power supply for the Raspberry Pi  
 
 Setup the LoRaWan-Gateway:  
