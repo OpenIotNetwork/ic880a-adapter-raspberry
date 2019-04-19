@@ -5,7 +5,7 @@ The power comes from the Raspberry Pi.
 
 What you find here:  
 -KiCad Fils  
--Gerber-Files  
+-Gerber Files  
 -different Pictures of the iC880A-Adapter-Board  
 
 iC880A-Adapter-Board:  
