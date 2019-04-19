@@ -1,7 +1,7 @@
 What you find here:
--KiCad Fils  
--Gerber-Files  
--different Pictures of the iC880A-Adapter-Board  
+- KiCad Fils  
+- Gerber-Files  
+- different Pictures of the iC880A-Adapter-Board  
 
 What is it?  
 This adapter board connects a Raspberry Pi (Zero, 2 Model B or above) to an IMST iC880A LoRaWAN concentrator board.  
@@ -9,7 +9,7 @@ You can use the board instead of jumper wires which makes the work much easier. 
 
 iC880A-Adapter-Board:  
 It is easy to build the board. All you need is to solder the following.
--1 pc of 1x20 pinheader  
+- 1 pc of 1x20 pinheader  
 - 1 pc of 2x20 pinheader
 - 2 pcs of 1x3 pinheader
 
