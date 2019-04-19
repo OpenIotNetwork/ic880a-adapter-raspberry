@@ -8,7 +8,7 @@ What you find here:
 -different Pictures of the iC880A-Adapter-Board  
 
 iC880A-Adapter-Board:  
-It is easy to build the board. All you need is to solder the following.
+It is easy to build the board. All you need is to solder the following.  
 -1 pc of 1x20 pinheader  
 -1 pc of 2x20 pinheader  
 -2 pcs of 1x3 pinheader  
