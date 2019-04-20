@@ -2,7 +2,7 @@ What is it?
 -----------
 This adapter board connects a Raspberry Pi (Zero, 2 Model B or above) to an IMST iC880A LoRaWAN concentrator board.  
 You can use the board instead of jumper wires which makes the work much easier.  
-The power comes from the Raspberry Pi.
+Power is provided by Raspberry Pi.
 
 What you find here
 ------------------
@@ -12,7 +12,7 @@ What you find here
 
 iC880A-Adapter-Board
 --------------------
-It is easy to build the board. All you need is to solder the following.
+It is easy to build the board. You need to solder the following parts to complete it:
 - 1 pc of 1x20 pinheader
 - 1 pc of 2x20 pinheader
 - 2 pcs of 1x3 pinheader
@@ -32,21 +32,19 @@ iC880A <-> Raspberry Pi
 - 17 <-> 24 ... GPIO8-NSS
 - 21 <-> 02 ... 5V-VCC
 
-LoRaWan-Gateway
+LoRaWAN-Gateway
 ---------------
-To build a LoRaWan-Gateway you need just a
-- Raspberry Pi (Zero, 2 Model B or above)
+To build a LoRaWAN-Gateway you need just a
+- Raspberry Pi (Zero, 2 Model B or above) + power supply
 - this iC880A-Adapter-Board
 - IMST iC880A LoRaWAN concentrator board
-- Power supply for the Raspberry Pi
+- antenna + cable
 
-Setup the LoRaWan-Gateway
+Setup the LoRaWAN-Gateway
 -------------------------
-To set up the LoRaWan-Gateway, please see setup scripts on https://github.com/OpenIotNetwork/ic880a-setup-scripts
+To set up the software on your LoRaWAN-Gateway, see setup scripts on https://github.com/OpenIotNetwork/ic880a-setup-scripts
 
 Info
 ----
-You find Information about LoRaWan on https://openiot.network  
-See also OpenIoT-Forum on https://forum.openiot.network/t/openiot-ic880a-adapter-board/112  
-
-
+You find information about our LoRaWAN initiative at https://openiot.network
+See also OpenIoT-Forum at https://forum.openiot.network/t/openiot-ic880a-adapter-board/112  
