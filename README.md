@@ -1,5 +1,5 @@
 What is it?
------------
+===========
 This adapter board connects a Raspberry Pi (Zero, 2 Model B or above) to an IMST iC880A LoRaWAN concentrator board.  
 You can use the board instead of jumper wires which makes the work much easier.  
 The power comes from the Raspberry Pi.
