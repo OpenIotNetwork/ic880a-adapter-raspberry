@@ -8,7 +8,7 @@ What you find here
 ------------------
 - KiCad Fils
 - Gerber Files
-- different Pictures of the iC880A-Adapter-Board
+- Pictures of the iC880A-Adapter-Board
 
 iC880A-Adapter-Board
 --------------------
