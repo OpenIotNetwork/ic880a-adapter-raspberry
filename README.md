@@ -20,17 +20,17 @@ It is easy to build the board. All you need is to solder the following.
 Pinout
 ------
 iC880A <-> Raspberry Pi
-- 07 <-> 38 ... GPIO20  
-    08 <-> 36 ... GPIO16  
-    09 <-> 32 ... GPIO12  
-    10 <-> 31 ... GPIO6  
-    11 <-> 29 ... GPIO5  
-    13 <-> 22 ... GPIO25-Reset  
-    14 <-> 23 ... GPIO11-CLK  
-    15 <-> 21 ... GPIO9-MISO  
-    16 <-> 19 ... GPIO10-MOSI  
-    17 <-> 24 ... GPIO8-NSS  
-    21 <-> 02 ... 5V-VCC  
+- 07 <-> 38 ... GPIO20
+- 08 <-> 36 ... GPIO16
+- 09 <-> 32 ... GPIO12
+- 10 <-> 31 ... GPIO6
+- 11 <-> 29 ... GPIO5
+- 13 <-> 22 ... GPIO25-Reset
+- 14 <-> 23 ... GPIO11-CLK
+- 15 <-> 21 ... GPIO9-MISO
+- 16 <-> 19 ... GPIO10-MOSI
+- 17 <-> 24 ... GPIO8-NSS
+- 21 <-> 02 ... 5V-VCC
 
 LoRaWan-Gateway
 ---------------
