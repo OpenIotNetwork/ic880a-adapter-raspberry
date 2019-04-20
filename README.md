@@ -42,9 +42,9 @@ To build a LoRaWAN-Gateway you need just a
 
 Setup the LoRaWAN-Gateway
 -------------------------
-To set up the software on your LoRaWAN-Gateway, see setup scripts on https://github.com/OpenIotNetwork/ic880a-setup-scripts
+To set up the software on your LoRaWAN-Gateway, see setup scripts at https://github.com/OpenIotNetwork/ic880a-setup-scripts
 
 Info
 ----
-You find information about our LoRaWAN initiative at https://openiot.network
+You find information about our LoRaWAN initiative at https://openiot.network  
 See also OpenIoT-Forum at https://forum.openiot.network/t/openiot-ic880a-adapter-board/112  
